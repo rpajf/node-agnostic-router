@@ -1,5 +1,5 @@
 {
-  "name": "router",
+  "name": "restful-generic-entity",
   "version": "1.0.0",
   "description": "Node simple and agnostic backend lib",
   "type": "module",
